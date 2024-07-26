@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Reet Jain </h1>
-🎯 Passionate Full Stack Developer | Computer Science Student @PDEU'25<br><br>💻 I'm skilled in programming with JavaScript, C++, Java and Python. 🚀 Building Full Stack Webapp is my passion!<br><br> 💻✨I have built several projects using the MERN stack, MySQL, Restful APIs, and also skilled in using tools like Docker, Git, Docker <br><br>📚 I also have foundational knowledge of DSA, DBMS, CN, OS and OOPS. 🧑‍💻Currently learning Full Stack Development in Depth .<br><br>🤖 Want to explore Cloud Computing.
+🎯 Passionate Full Stack Developer | Computer Science Student @PDEU'25<br><br>💻 I'm skilled in programming with JavaScript, C++, Java and Python. 🚀 Building Full Stack Webapp is my passion!<br><br> 💻✨I have built several projects using the MERN stack, Next.js, MySQL, Restful APIs, and also skilled in using tools like Docker, Git, Docker <br><br>📚 I also have foundational knowledge of DSA, DBMS, CN, OS and OOPS. 🧑‍💻Currently learning Devops and more Development .<br><br>🤖 Want to explore Cloud Computing.
 <br><br>
 🖥 You can check all my projects <a href="https://github.com/reetjain01?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
 <br><br>
@@ -27,12 +27,14 @@
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
 
 ### Developement
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%23000000) 
 ![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%23ffffff)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
