@@ -56,7 +56,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reetjain112/)
 [![Codechef](https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/reet_112)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jainreet112)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aniket2409)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jainre2yor/)
 
 <br><br>
 
